@@ -9,3 +9,5 @@ https://www.figma.com/design/nLCSuj5EGtYOi1OeAgJjVk/Moi-Poezdki?node-id=0%3A1&t=
 </blockquote>
 
 В соответствии с тз, не использовала фреймворки и библиотеки, сосредоточилась на семантике и качестве стилизации. Вёрстка выполнена Pixel perfect. 
+
+Ссылка на готовый проект: https://mengmeiying.github.io/all-trips/
